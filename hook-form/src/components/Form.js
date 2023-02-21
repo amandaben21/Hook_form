@@ -43,7 +43,7 @@ const Form = (props) => {
 
             {/* Displaying our ( state ) live typying */}
             <h1>Display</h1>
-            <h3>{usernae}</h3>
+            <h3>{username}</h3>
             <h3>{email}</h3>
             <h3>{password}</h3>
             <h3>{confirm_password}</h3>
