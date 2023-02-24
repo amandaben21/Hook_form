@@ -17,8 +17,9 @@ const Form = (props) => {
     	setEmail("");
     	setPassword("");
         setConfirm_Password("");
+
     };
-    
+
     return(
         <div>
             <form onSubmit={ createUser }>
